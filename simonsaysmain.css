@@ -1,0 +1,33 @@
+
+body {
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+margin-top: 120px;
+background-color: yellow;
+}
+
+h1{
+  font-weight: lighter;
+  font-size: 32px;
+  letter-spacing: 2px;
+  margin-bottom: 0px;
+  color: #33ccff;
+  font-family: Futura;
+}
+
+p{
+  font-weight: lighter;
+  font-size: 18px;
+  letter-spacing: 2px;
+  margin-bottom: 30px;
+  color: #33ccff;
+  font-family: Futura;
+}
+
+.container{
+  max-width: 800px;
+}
+
+
